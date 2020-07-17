@@ -1,0 +1,10 @@
+<!-- index.wxml -->
+<view class="container">
+	<camera device-position="front" flash="off" frame-size="low" binderror="error" class="camera">
+
+	<canvas canvas-id="canvas" class="canvas" />
+	</camera>
+	<!-- <button type="primary" bindtap="takePhoto">拍照</button>
+<image mode="widthFix" src="{{src}}"></image> -->
+
+</view>

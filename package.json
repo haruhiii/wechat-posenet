@@ -1,0 +1,19 @@
+{
+  "name": "true-tfjs",
+  "version": "1.0.0",
+  "description": "true tfjs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vril",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow-models/posenet": "^2.2.1",
+    "@tensorflow/tfjs-converter": "^1.4.0",
+    "@tensorflow/tfjs-core": "^1.4.0",
+    "@tensorflow/tfjs-layers": "^1.4.0",
+    "fetch-wechat": "0.0.3",
+    "regenerator-runtime": "^0.13.3"
+  }
+}

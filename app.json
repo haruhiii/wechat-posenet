@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/posenet/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "plugins": {
+    "tfjsPlugin": {
+      "version": "0.0.7",
+      "provider": "wx6afed118d9e81df9"
+    }
+  }
+}
